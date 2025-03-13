@@ -16,7 +16,7 @@ body{
     height: 100vh;
     background-image: url(Background.jpg);
 
-    background-size: fill;
+    background-size: cover;
     background-repeat: no-repeat;
     background-position: right;
     background-attachment: fixed;
